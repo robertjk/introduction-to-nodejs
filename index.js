@@ -1,3 +1,8 @@
 #!/usr/bin/env node
 
-console.log("Hello world");
+const noteContent = process.argv[2];
+const newNote = {
+  content: noteContent,
+  id: Date.now(),
+};
+console.log(newNote);
