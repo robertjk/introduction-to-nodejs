@@ -1,0 +1,16 @@
+{
+  "name": "introduction-to-nodejs",
+  "version": "1.0.0",
+  "description": "Code for \"Introduction to Node.js, v3\" Frontend Masters course",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertjk/introduction-to-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Robert Kusznier",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
