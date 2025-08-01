@@ -10,6 +10,9 @@
   "author": "Robert Kusznier",
   "type": "module",
   "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
