@@ -9,5 +9,6 @@ The only dependency is [Node.js](https://nodejs.org/en).
 ## Setup
 
 ```bash
+$ npm install
 $ npm link
 ```
