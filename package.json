@@ -18,5 +18,8 @@
   },
   "dependencies": {
     "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
   }
 }
