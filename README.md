@@ -12,3 +12,7 @@ The only dependency is [Node.js](https://nodejs.org/en).
 $ npm install
 $ npm link
 ```
+
+## Usage
+
+Run `note` and it'll list all the available commands and options.
