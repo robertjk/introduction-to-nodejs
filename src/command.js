@@ -9,6 +9,7 @@ import {
   removeNote,
 } from "./notes.js";
 import { listNotes } from "./utils.js";
+import { start } from "./server.js";
 
 yargs(hideBin(process.argv))
   .command(
@@ -79,7 +80,8 @@ yargs(hideBin(process.argv))
       });
     },
     async (argv) => {
-      // TODO
+      const notes = await getAllNotes();
+      start(notes);
     }
   )
 
