@@ -1,3 +1,19 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [],
+      "id": 1754400536128,
+      "content": "Walk my dog"
+    },
+    {
+      "tags": [],
+      "id": 1754400540706,
+      "content": "Meet with Kuba"
+    },
+    {
+      "tags": [],
+      "id": 1754400549748,
+      "content": "Finish Introduction to Node.js course"
+    }
+  ]
 }
