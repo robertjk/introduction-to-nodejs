@@ -17,6 +17,7 @@
     "test": "vitest"
   },
   "dependencies": {
+    "open": "^10.2.0",
     "yargs": "^18.0.0"
   },
   "devDependencies": {
